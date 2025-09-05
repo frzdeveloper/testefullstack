@@ -1,0 +1,40 @@
+<div class="user-list-container">
+  <div class="header">
+    <h2>Lista de Usuários</h2>
+    <button class="btn btn-secondary" (click)="logout()">Sair</button>
+  </div>
+
+  <div class="loading" *ngIf="loading">
+    <p>Carregando usuários...</p>
+  </div>
+
+  <div class="error-message" *ngIf="error">
+    {{ error }}
+    <button class="btn btn-primary" (click)="loadUsers()">
+      Tentar Novamente
+    </button>
+  </div>
+
+  <div class="users-table" *ngIf="!loading && !error">
+    <table>
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>E-mail</th>
+          <th>Criado em</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let user of users">
+          <td>{{ user.name }}</td>
+          <td>{{ user.email }}</td>
+          <td>{{ user.createdAt | date : "dd/MM/yyyy HH:mm" }}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="no-users" *ngIf="users.length === 0">
+      <p>Nenhum usuário encontrado.</p>
+    </div>
+  </div>
+</div>

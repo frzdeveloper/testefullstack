@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.deps.json
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.pdb
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
+C:\Users\user\source\repos\Projetos\Teste Entrevista\src\Backend\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.deps.json
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.pdb
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
+C:\Users\user\source\repos\Projetos\TesteEntrevista-FullStack\src\Backend\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll
