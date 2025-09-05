@@ -52,17 +52,6 @@ Uma aplicação fullstack para gerenciamento de usuários desenvolvida com .NET 
 - Angular CLI 19
 - SQL Server (opcional - projeto usa banco em memória por padrão)
 
-### Scripts PowerShell (Opção Mais Fácil)
-
-```bash
-# Executar aplicação completa
-.\scripts\start-full-app.ps1
-
-# Ou separadamente:
-.\scripts\start-backend.ps1
-.\scripts\start-frontend.ps1
-```
-
 ### Execução Manual
 
 #### Backend
